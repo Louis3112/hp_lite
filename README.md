@@ -12,7 +12,7 @@ The project offers a variety features, such as :
 6. Suwitan game (simple paper, rock, scissor game from Indonesia)
 7. Jackpot number game (guessing game where player have 10 chances to guess the computer number)
 
-The project is developed using C++, runs on CLI, and doesn't requires installing any library from outside.
+The project is developed using imperative programming, C++ language, runs on CLI, and doesn't requires installing any library from outside.
 **I know i can develope it further, but i want to save it as a memory --one of my first steps become a programmer**
 
 ## :busts_in_silhouette: **Team** :busts_in_silhouette:
