@@ -1,4 +1,4 @@
-# :bangbang: **Basic Programming Final Project for 3rd Semester**  :bangbang:
+# :bangbang: **Basic Programming Final Project for 1st Semester**  :bangbang:
 
 ## :toolbox: :computer: **hp_lite** :toolbox: :computer: 
 "Our" Final Project for Basic Programming (Pemrograman Dasar) in 1st Semester.
@@ -19,7 +19,7 @@ The project is developed using imperative programming, C++ language, runs on CLI
 The project was completed by Group 7, which consists of following members :
 
 - **Sandhika Lyandra Prasetyo &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; - 23051204074**
-- **Vena Novita Fitri Indriani  &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204075**
+- **Vena Novita Fitri Indriani  &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204077**
 - **Cornelius Louis Nathan  &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204085 [@Louis3112](https://github.com/Louis3112)**
 
 ## :arrow_forward: **Installation and Usage** 
