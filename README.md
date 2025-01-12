@@ -43,4 +43,4 @@ Here's how to to contribute:
 
 ## :telephone_receiver: **Contact** :telephone_receiver:
 
-If you have any questions or comments about this project, please contact **[me](corneliuslouis3112@gmail.com)**.
+If you have any questions or comments about this project, please contact **[me](corneliuslouis3112@gmail.com)**
