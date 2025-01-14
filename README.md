@@ -31,7 +31,7 @@ To install this project, please proceed these steps :
 4. Run the project : **`./hp_lite`** (or just simply run with your IDE)
 
 ## 	:bust_in_silhouette: **Contributing** :bust_in_silhouette:
-If you'd like to contribute or upgrade the project, it would be my pleasure! :smile: 
+If you'd like to contribute or upgrade the project, it would be our pleasure! :smile: 
 (I would be surprise tho, i mean.. it's a simple project)
 
 Here's how to to contribute:
