@@ -8,7 +8,7 @@ The project offers a variety features, such as :
 2. Distance unit conversion (convert from meter, kilometer, mile, kilometer to milimeter)
 3. Weight unit conversion (convert from kg, liter, ounce, pound, gram)
 4. BMI calculation (with simple advice mechanism based on the calculated BMI)                          
-5. Note application (simple note-taking feature that allows user to save and retrieve notes in .txt file with fstream library)
+5. Note application (simple note-taking feature that allows user to save and retrieve notes in "notes.txt" with fstream library)
 6. Suwitan game (simple paper, rock, scissor game from Indonesia)
 7. Jackpot number game (guessing game where player have 10 chances to guess the computer number)
 
